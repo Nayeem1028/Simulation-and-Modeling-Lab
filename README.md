@@ -1,10 +1,8 @@
 # Weicome to Simulation And Modeling Lab 
 
 ## Student Information
-
 - **Name:** Nayeem Islam
 - **ID:** 2215151028
-
 - **University:** University of Information Technology and Sciences
 - **Department:** Computer Science and Engineering **(CSE)**
 - **Batch:** 51
