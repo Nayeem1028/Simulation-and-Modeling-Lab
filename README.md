@@ -4,8 +4,11 @@
 
 - **Name:** Nayeem Islam
 - **ID:** 2215151028
+
+- **University:** University of Information Technology and Sciences
+- **Department:** Computer Science and Engineering **(CSE)**
+- **Batch:** 51
 - **Section:** 7A2
-- **University:** University of Information Technology and Sciences 
 - **Course Code:** CSE 413
 - **Course Name:** Simulation and Modeling Lab
 - **Course Teacher:** Audity Ghosh
