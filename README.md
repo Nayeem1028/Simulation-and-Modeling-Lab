@@ -1,4 +1,4 @@
-# README
+# Weicome to Simulation And Modeling Lab 
 
 ## Student Information
 
