@@ -18,10 +18,19 @@
 - Matrix Visualization (Line Graph, Bar Plot, Heatmap)
 
 ## Completed Tasks
+- **Assignment 01**
 
 1. Generated two vectors with 15 random floats each and plotted them on the same graph with labeled axes and a title.
 2. Created a 4x4 matrix with random values and visualized it as a heatmap with labeled rows and columns.
 3. Generated two 4x4 matrices, performed addition, subtraction, and multiplication, visualized the results using bar plots, and analyzed the effects.
+
+- **Assignment 02**
+
+1.Create a 3x3 Matrix of Random Integers between 1 and 50
+2.Create a 3x3 Matrix of Random Integers between 1 and 50 With a fixed seed
+3.Create a 3x3 Matrix of Random Integers between 1 and 50 Without a fixed seed
+
+
 
 ## Software and Tools Used
 
