@@ -1,4 +1,4 @@
-# Weicome to Simulation And Modeling Lab 
+# Welcome to Simulation And Modeling Lab 
 
 ## Student Information
 - **Name:** Nayeem Islam
